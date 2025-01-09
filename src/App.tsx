@@ -2,7 +2,7 @@ import { RouterProvider } from "react-router-dom";
 import routes from "./routes/routes";
 import { ThemeContext } from "./theme/themeContext";
 import { useState } from "react";
-import Theme from "./theme/Theme";
+import Theme from "./theme/theme";
 import store from "./store/store";
 import { Provider } from "react-redux";
 
