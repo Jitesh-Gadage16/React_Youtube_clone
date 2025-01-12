@@ -27,7 +27,7 @@ export const sideBaMenus = {
     { name: "News", icon: <FaNewspaper /> },
     { name: "Sports", icon: <FaTrophy /> },
     { name: "Courses", icon: <FaLightbulb /> },
-    { name: "Fasion & Beauti", icon: <GiClothes /> },
+    { name: "Fashion & Beauty", icon: <GiClothes /> },
     { name: "Podcasts", icon: <FaPodcast /> },
   ],
 };
